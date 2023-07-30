@@ -1,0 +1,15 @@
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/PrimeiroProjeto/bin/Debug/net6.0/PrimeiroProjeto
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/PrimeiroProjeto/bin/Debug/net6.0/PrimeiroProjeto.deps.json
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/PrimeiroProjeto/bin/Debug/net6.0/PrimeiroProjeto.runtimeconfig.json
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/PrimeiroProjeto/bin/Debug/net6.0/PrimeiroProjeto.dll
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/PrimeiroProjeto/bin/Debug/net6.0/ref/PrimeiroProjeto.dll
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/PrimeiroProjeto/bin/Debug/net6.0/PrimeiroProjeto.pdb
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/PrimeiroProjeto/obj/Debug/net6.0/PrimeiroProjeto.csproj.AssemblyReference.cache
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/PrimeiroProjeto/obj/Debug/net6.0/PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/PrimeiroProjeto/obj/Debug/net6.0/PrimeiroProjeto.AssemblyInfoInputs.cache
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/PrimeiroProjeto/obj/Debug/net6.0/PrimeiroProjeto.AssemblyInfo.cs
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/PrimeiroProjeto/obj/Debug/net6.0/PrimeiroProjeto.csproj.CoreCompileInputs.cache
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/PrimeiroProjeto/obj/Debug/net6.0/PrimeiroProjeto.dll
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/PrimeiroProjeto/obj/Debug/net6.0/ref/PrimeiroProjeto.dll
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/PrimeiroProjeto/obj/Debug/net6.0/PrimeiroProjeto.pdb
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/PrimeiroProjeto/obj/Debug/net6.0/PrimeiroProjeto.genruntimeconfig.cache

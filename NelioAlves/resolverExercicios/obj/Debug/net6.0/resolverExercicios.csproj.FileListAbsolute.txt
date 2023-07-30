@@ -1,0 +1,15 @@
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/resolverExercicios/bin/Debug/net6.0/resolverExercicios
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/resolverExercicios/bin/Debug/net6.0/resolverExercicios.deps.json
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/resolverExercicios/bin/Debug/net6.0/resolverExercicios.runtimeconfig.json
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/resolverExercicios/bin/Debug/net6.0/resolverExercicios.dll
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/resolverExercicios/bin/Debug/net6.0/ref/resolverExercicios.dll
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/resolverExercicios/bin/Debug/net6.0/resolverExercicios.pdb
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/resolverExercicios/obj/Debug/net6.0/resolverExercicios.csproj.AssemblyReference.cache
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/resolverExercicios/obj/Debug/net6.0/resolverExercicios.GeneratedMSBuildEditorConfig.editorconfig
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/resolverExercicios/obj/Debug/net6.0/resolverExercicios.AssemblyInfoInputs.cache
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/resolverExercicios/obj/Debug/net6.0/resolverExercicios.AssemblyInfo.cs
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/resolverExercicios/obj/Debug/net6.0/resolverExercicios.csproj.CoreCompileInputs.cache
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/resolverExercicios/obj/Debug/net6.0/resolverExercicios.dll
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/resolverExercicios/obj/Debug/net6.0/ref/resolverExercicios.dll
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/resolverExercicios/obj/Debug/net6.0/resolverExercicios.pdb
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/resolverExercicios/obj/Debug/net6.0/resolverExercicios.genruntimeconfig.cache

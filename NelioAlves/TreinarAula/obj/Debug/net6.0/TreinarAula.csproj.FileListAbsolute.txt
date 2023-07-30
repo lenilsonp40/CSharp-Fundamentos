@@ -1,0 +1,15 @@
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/NelioAlves/TreinarAula/bin/Debug/net6.0/TreinarAula
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/NelioAlves/TreinarAula/bin/Debug/net6.0/TreinarAula.deps.json
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/NelioAlves/TreinarAula/bin/Debug/net6.0/TreinarAula.runtimeconfig.json
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/NelioAlves/TreinarAula/bin/Debug/net6.0/TreinarAula.dll
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/NelioAlves/TreinarAula/bin/Debug/net6.0/ref/TreinarAula.dll
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/NelioAlves/TreinarAula/bin/Debug/net6.0/TreinarAula.pdb
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/NelioAlves/TreinarAula/obj/Debug/net6.0/TreinarAula.csproj.AssemblyReference.cache
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/NelioAlves/TreinarAula/obj/Debug/net6.0/TreinarAula.GeneratedMSBuildEditorConfig.editorconfig
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/NelioAlves/TreinarAula/obj/Debug/net6.0/TreinarAula.AssemblyInfoInputs.cache
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/NelioAlves/TreinarAula/obj/Debug/net6.0/TreinarAula.AssemblyInfo.cs
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/NelioAlves/TreinarAula/obj/Debug/net6.0/TreinarAula.csproj.CoreCompileInputs.cache
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/NelioAlves/TreinarAula/obj/Debug/net6.0/TreinarAula.dll
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/NelioAlves/TreinarAula/obj/Debug/net6.0/ref/TreinarAula.dll
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/NelioAlves/TreinarAula/obj/Debug/net6.0/TreinarAula.pdb
+/home/lenilson/Estudos/Programação/GitHub/CSharp-Fundamentos/NelioAlves/TreinarAula/obj/Debug/net6.0/TreinarAula.genruntimeconfig.cache
