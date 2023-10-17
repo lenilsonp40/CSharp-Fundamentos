@@ -1,0 +1,14 @@
+C:\Estudos\Dev\GitHub\CSharp-Fundamentos\Macorrati\MeuProjeto\MeuProjeto\bin\Debug\net6.0\MeuProjeto.exe
+C:\Estudos\Dev\GitHub\CSharp-Fundamentos\Macorrati\MeuProjeto\MeuProjeto\bin\Debug\net6.0\MeuProjeto.deps.json
+C:\Estudos\Dev\GitHub\CSharp-Fundamentos\Macorrati\MeuProjeto\MeuProjeto\bin\Debug\net6.0\MeuProjeto.runtimeconfig.json
+C:\Estudos\Dev\GitHub\CSharp-Fundamentos\Macorrati\MeuProjeto\MeuProjeto\bin\Debug\net6.0\MeuProjeto.dll
+C:\Estudos\Dev\GitHub\CSharp-Fundamentos\Macorrati\MeuProjeto\MeuProjeto\bin\Debug\net6.0\MeuProjeto.pdb
+C:\Estudos\Dev\GitHub\CSharp-Fundamentos\Macorrati\MeuProjeto\MeuProjeto\obj\Debug\net6.0\MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\Dev\GitHub\CSharp-Fundamentos\Macorrati\MeuProjeto\MeuProjeto\obj\Debug\net6.0\MeuProjeto.AssemblyInfoInputs.cache
+C:\Estudos\Dev\GitHub\CSharp-Fundamentos\Macorrati\MeuProjeto\MeuProjeto\obj\Debug\net6.0\MeuProjeto.AssemblyInfo.cs
+C:\Estudos\Dev\GitHub\CSharp-Fundamentos\Macorrati\MeuProjeto\MeuProjeto\obj\Debug\net6.0\MeuProjeto.csproj.CoreCompileInputs.cache
+C:\Estudos\Dev\GitHub\CSharp-Fundamentos\Macorrati\MeuProjeto\MeuProjeto\obj\Debug\net6.0\MeuProjeto.dll
+C:\Estudos\Dev\GitHub\CSharp-Fundamentos\Macorrati\MeuProjeto\MeuProjeto\obj\Debug\net6.0\refint\MeuProjeto.dll
+C:\Estudos\Dev\GitHub\CSharp-Fundamentos\Macorrati\MeuProjeto\MeuProjeto\obj\Debug\net6.0\MeuProjeto.pdb
+C:\Estudos\Dev\GitHub\CSharp-Fundamentos\Macorrati\MeuProjeto\MeuProjeto\obj\Debug\net6.0\MeuProjeto.genruntimeconfig.cache
+C:\Estudos\Dev\GitHub\CSharp-Fundamentos\Macorrati\MeuProjeto\MeuProjeto\obj\Debug\net6.0\ref\MeuProjeto.dll

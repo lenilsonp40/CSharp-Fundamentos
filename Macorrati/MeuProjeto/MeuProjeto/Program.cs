@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿string lenilson = "fala";
+Console.WriteLine(lenilson);
+Console.ReadLine();
+DateTime dataatual = DateTime.Now;
+Console.WriteLine(dataatual);

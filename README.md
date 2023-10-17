@@ -1,2 +1,2 @@
 # CSharp-Fundamentos
-Estudando os fundamentos da Linguagem C#.
+Estudando os fundamentos e praticando exercícios com a Linguagem C#.
